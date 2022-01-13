@@ -1,0 +1,26 @@
+_repo: Day-Dreams_67016
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valentino, Rudolph
+    alias: Guglielmi, Rodolfo Pietro Filiberto
+    birthdate: 1895
+    deathdate: 1926
+    gutenberg_agent_id: '54079'
+    url: http://www.gutenberg.org/2009/agents/54079
+    wikipedia: https://en.wikipedia.org/wiki/Rudolph_Valentino
+description: ''
+gutenberg_issued: '2021-12-26'
+identifiers:
+  gutenberg: '67016'
+  lccn: '23017562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+- GITenberg
+title: Day Dreams
+url: http://www.gutenberg.org/ebooks/67016
